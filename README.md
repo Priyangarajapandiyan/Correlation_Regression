@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# NAME : PRIYANGA R
+# REG NO : 212223230161
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
